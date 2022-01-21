@@ -1,0 +1,11 @@
+[browser]
+exe_path = C:\Users\KIEV-COP-4\AppData\Local\Mozilla Firefox\firefox.exe
+headless = True
+
+[account]
+username = katiamalinovskaia46
+password = miriam310789
+
+[target]
+target = roseinearth
+option = followings

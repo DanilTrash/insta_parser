@@ -1,0 +1,49 @@
+1642607002941	geckodriver	INFO	Listening on 127.0.0.1:53128
+1642607005984	mozrunner::runner	INFO	Running command: "C:\\Users\\KIEV-COP-4\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53129" "-no-remote" "-profile" "C:\\Users\\KIEV-C~1\\AppData\\Local\\Temp\\rust_mozprofile8P25qF"
+*** You are running in headless mode.
+1642607006324	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KIEV-COP-4\\AppData\\Local\\Temp\\rust_mozprofile8P25qF\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:53129/devtools/browser/0bba40e1-c0df-4e96-bc74-219f92145792
+1642607007824	Marionette	INFO	Listening on port 53138
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1642607008023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1642607435396	geckodriver	INFO	Listening on 127.0.0.1:53463
+1642607438781	mozrunner::runner	INFO	Running command: "C:\\Users\\KIEV-COP-4\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53464" "-no-remote" "-profile" "C:\\Users\\KIEV-C~1\\AppData\\Local\\Temp\\rust_mozprofileEJLnRz"
+*** You are running in headless mode.
+1642607439186	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KIEV-COP-4\\AppData\\Local\\Temp\\rust_mozprofileEJLnRz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53464/devtools/browser/97b89bea-ec42-4a59-b160-c17c42104fca
+1642607441030	Marionette	INFO	Listening on port 53472
+1642607441053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1642607497625	geckodriver	INFO	Listening on 127.0.0.1:53557
+1642607500944	mozrunner::runner	INFO	Running command: "C:\\Users\\KIEV-COP-4\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53558" "-no-remote" "-profile" "C:\\Users\\KIEV-C~1\\AppData\\Local\\Temp\\rust_mozprofile8mC4KB"
+*** You are running in headless mode.
+1642607501326	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KIEV-COP-4\\AppData\\Local\\Temp\\rust_mozprofile8mC4KB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53558/devtools/browser/f4be5a67-e961-4663-83e5-14442f2d3fe2
+1642607502907	Marionette	INFO	Listening on port 53568
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642607503221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
